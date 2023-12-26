@@ -1,6 +1,5 @@
 package com.example.java_task01;
 
-import javafx.scene.control.ColorPicker;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
